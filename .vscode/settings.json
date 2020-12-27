@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    ".firebaserc": true,
+    ".gitignore": true,
+    "**/_templates": true,
+    "**/.eslintcache": true,
+    "**/.github": true,
+    "**/.hygen.js": true,
+    "**/.storybook": true,
+    "**/.vercel": true,
+    "**/.vscode": true,
+    "**/build": true,
+    "**/debug.log": true,
+    "**/firebase-debug.log": true,
+    "**/firestore-debug.log": true,
+    "**/lib": true,
+    "**/node_modules": true,
+    "**/package-lock.json": true,
+    "**/package.json": true,
+    "**/tsconfig.json": true,
+    "**/ui-debug.log": true,
+    "firebase.json": true,
+    "firestore.indexes.json": true,
+    "storybook-static": true
+  }
+}
